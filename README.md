@@ -62,6 +62,5 @@ Data transformations and cleaning were performed using **Power Query**, includin
 3. Use slicers and filters to explore insights.  
 4. Click visuals to cross-filter other charts for interactive analysis.
 
+---
 
-## Resume / Interview Statement
-*"I built an end-to-end Sales Performance Dashboard in Power BI to analyze sales trends and provide actionable insights. The project is hosted on GitHub with documentation and interactive visuals for easy exploration."*
