@@ -1,6 +1,6 @@
 # Sales Performance Dashboard – Power BI
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Project Overview
 This project demonstrates an end-to-end **Sales Performance Dashboard** built using **Power BI Desktop**. 
