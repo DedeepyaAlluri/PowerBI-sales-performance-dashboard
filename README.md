@@ -15,6 +15,8 @@ This project showcases an end-to-end sales performance dashboard built using Pow
 - Top Products by Revenue
 - Category Contribution Analysis
 
+###![Dashboard Preview](dashboard..png)
+
 ### Key Insights
 - Revenue peaked in April driven by higher average order value.
 - Retail segment contributes the majority of total revenue.
